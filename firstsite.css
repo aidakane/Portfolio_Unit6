@@ -1,3 +1,28 @@
 body {
-    background-color:Cyan;
+    background-color: purple;
+    color: powderblue;
+}
+
+img {
+    width: 300px;
+    display: block;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    border-color: pink;
+    border-style: dotted;
+    color: magenta;
+}
+
+p {
+    text-align: center;
+    font-size: x-large;
+}
+
+#conclude {
+    float: left;
+    font-size: large;
+    color: powderblue;
 }
