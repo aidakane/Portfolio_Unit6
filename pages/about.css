@@ -7,4 +7,35 @@ body{
     background-color: black;
     }
     
-    
+p{
+    color:white;
+    text-align: center;
+}    
+
+iframe{
+    width:500px; 
+    height:300px;
+    margin-left:200px;
+    border-style:none; 
+    border-radius:20px;
+}
+img{
+    width:220px;
+    height:200px;
+    border-radius:20px;
+     margin-left:100px; 
+}
+#tiller{
+width:200px;
+height:200px;
+ margin-left:20px; 
+}
+#highbridge{
+    width:180px;
+    height: 200px;
+    margin-left:20px; 
+}
+h2{
+    color:pink;
+    text-align: center;
+}
